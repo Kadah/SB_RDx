@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Resource Distribution x"
+	"version"			"x.0"
+	"up_date"			"Aug, 2008"
+	"author_name"		"TAD2020"
+	"author_email"		"wouldntyou@liketo.no"
+	"author_url"		"http://wiremod.com/"
+	"info"				"Resource Distribution core for Q4 2008."
+}

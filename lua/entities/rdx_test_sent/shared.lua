@@ -1,0 +1,9 @@
+ENT.Type			= "anim"
+ENT.Base			= "rdx_base_entity"
+ENT.PrintName		= "RDx Test SENT"
+ENT.Author			= "TAD2020"
+ENT.Contact			= ""
+ENT.Purpose			= ""
+ENT.Instructions	= ""
+ENT.Spawnable		= true
+ENT.AdminSpawnable	= true

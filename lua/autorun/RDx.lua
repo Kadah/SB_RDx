@@ -1,0 +1,1 @@
+include( "RDx/manifest.lua" )
